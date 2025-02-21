@@ -1,4 +1,4 @@
-# Due date: March 11, 2024 at 11:59 P.M.
+# Due date: February 28, 2025 at 11:59 P.M.
 
 # Lab 2: Matrix Multiplication - Tiling & Caches
 
