@@ -15,3 +15,5 @@ Finally, we will optimize matrix multiplication between large matrices to minimi
 Furthermore, please answer conceptual Questions 10 and 11.
 
 ## Submission
+
+Submit all modified .ipynb files and the answers.yaml file using Canvas.
