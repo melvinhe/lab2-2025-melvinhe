@@ -8,13 +8,14 @@ In this lab, we will analyze how matrix multiplication can be optimized for cach
 
 ## Using Docker
 
-Please start the Docker (and the Jupyter server) same as in Lab 1 and 2, please pull the docker first and then start with `docker-compose up`. 
+Please start the Docker (and the Jupyter server) same as in Lab 1, please pull the docker first and then start with `docker-compose up`. 
 ```
 cd <your-git-repo-for-lab2>
 docker-compose pull
 docker-compose up
 ```
-After finishing the lab, please commit all changes and push back to this repository.
+
+Note that the docker file is slightly different for Lab 2 as it uses Fibertree.
 
 
 ## Submission
