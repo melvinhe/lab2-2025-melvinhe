@@ -21,9 +21,9 @@ After finishing the lab, please commit all changes and push back to this reposit
 Submit a zip file on Canvas. The directory and contents of the files to be submitted are as follows:
 
 ```
-your name/workspace/lab1/
+your_name/workspace/lab2/
   ├── answers.yaml
-  ├── 1_pytorch_dnn.ipynb
-  ├── 2_first_principles.ipynb
-  ├── 3_hardware.ipynb
+  ├── 1_cache_basics.ipynb
+  ├── 2_cache_tiling.ipynb
+  ├── 3_cache_design.ipynb
 ```
