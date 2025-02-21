@@ -15,5 +15,12 @@ Finally, we will optimize matrix multiplication between large matrices to minimi
 Furthermore, please answer conceptual Questions 10 and 11.
 
 ## Submission
+Submit a zip file on Canvas. The directory and contents of the files to be submitted are as follows:
 
-Submit all modified .ipynb files and the answers.yaml file using Canvas.
+```
+your_name/workspace/lab2/
+  ├── answers.yaml
+  ├── 1_cache_basics.ipynb
+  ├── 2_cache_tiling.ipynb
+  ├── 3_cache_design.ipynb
+```
